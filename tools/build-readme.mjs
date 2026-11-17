@@ -65,6 +65,10 @@ function readme(c) {
   out.push('');
   out.push(`ai2hired is a free course that takes people from zero to a job offer in AI, with a strong focus on AI in pharma and life sciences. Every lesson exists because real job descriptions ask for that skill. Website: [ai2hired.org](${c.site}/). YouTube: [@ai2hired](${c.youtube}).`);
   out.push('');
+  out.push('## License');
+  out.push('');
+  out.push(`This roadmap is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (see [LICENSE](LICENSE)). You may copy, share and adapt it, even commercially, as long as you credit ai2hired with a link to [ai2hired.org](${c.site}/). The lesson videos and pages on ai2hired.org are not covered by this license.`);
+  out.push('');
   out.push(`_This README is rebuilt every day from [the live curriculum](${URL_JSON}). Please suggest changes on the website rather than editing it here._`);
   out.push('');
   return out.join('\n');
