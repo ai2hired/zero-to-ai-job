@@ -2,7 +2,7 @@
 
 A free, step-by-step roadmap from zero technical background to a job in AI: **224 lessons in 18 seasons**, every one built from what real AI job ads ask for. Each lesson is a free video on [YouTube](https://www.youtube.com/@ai2hired) with its own page on [ai2hired.org](https://ai2hired.org/).
 
-**Progress:** 4 of 224 lessons published. Lessons are released in order; this page updates itself every day.
+**Progress:** 5 of 224 lessons published. Lessons are released in order; this page updates itself every day.
 
 ## Start here
 
@@ -45,7 +45,7 @@ Understand the AI job landscape, choose a target role, and use AI assistants and
 - [x] 2. [What AI Really Is: AI vs Machine Learning vs LLMs](https://ai2hired.org/lessons/what-ai-really-is/)
 - [x] 3. [AI Jobs Explained: Which Role Fits You?](https://ai2hired.org/lessons/ai-jobs-explained/)
 - [x] 4. [Why Code Isn't the Hard Part Anymore](https://ai2hired.org/lessons/why-code-isnt-the-hard-part-anymore/)
-- [ ] 5. How to Learn Without Tutorial Hell
+- [x] 5. [Escape Tutorial Hell: Learn by Building](https://ai2hired.org/lessons/escape-tutorial-hell/)
 - [ ] 6. Using AI Assistants as a Learner
 - [ ] 7. Prompting 101 for Everyone
 - [ ] 8. Tokens, Context Windows and Model Families
