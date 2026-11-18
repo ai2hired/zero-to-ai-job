@@ -46,7 +46,7 @@ Understand the AI job landscape, choose a target role, and use AI assistants and
 - [x] 3. [AI Jobs Explained: Which Role Fits You?](https://ai2hired.org/lessons/ai-jobs-explained/)
 - [x] 4. [Why Code Isn't the Hard Part Anymore](https://ai2hired.org/lessons/why-code-isnt-the-hard-part-anymore/)
 - [x] 5. [Escape Tutorial Hell: Learn by Building](https://ai2hired.org/lessons/escape-tutorial-hell/)
-- [ ] 6. Using AI Assistants as a Learner
+- [ ] 6. AI Assistants for Learners: Catch the Mistakes
 - [ ] 7. Prompting 101 for Everyone
 - [ ] 8. Tokens, Context Windows and Model Families
 
@@ -388,5 +388,9 @@ _Coming soon._
 ## About
 
 ai2hired is a free course that takes people from zero to a job offer in AI, with a strong focus on AI in pharma and life sciences. Every lesson exists because real job descriptions ask for that skill. Website: [ai2hired.org](https://ai2hired.org/). YouTube: [@ai2hired](https://www.youtube.com/@ai2hired).
+
+## License
+
+This roadmap is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (see [LICENSE](LICENSE)). You may copy, share and adapt it, even commercially, as long as you credit ai2hired with a link to [ai2hired.org](https://ai2hired.org/). The lesson videos and pages on ai2hired.org are not covered by this license.
 
 _This README is rebuilt every day from [the live curriculum](https://ai2hired.org/curriculum.json). Please suggest changes on the website rather than editing it here._
