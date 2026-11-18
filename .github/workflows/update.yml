@@ -1,5 +1,5 @@
-# Rebuilds README.md from https://ai2hired.org/curriculum.json once a day and commits it
-# when it changed (a lesson was published, a title or path changed).
+# Rebuilds README.md from https://ai2hired.org/curriculum.json twice a day and commits it
+# when it changed (a lesson was published, a title, path, skill figure or page changed).
 # Run it by hand: Actions > Update the roadmap > Run workflow.
 
 name: Update the roadmap
@@ -7,6 +7,7 @@ name: Update the roadmap
 on:
   schedule:
     - cron: '41 7 * * *'
+    - cron: '41 19 * * *'
   workflow_dispatch:
 
 permissions:

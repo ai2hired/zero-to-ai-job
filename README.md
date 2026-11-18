@@ -1,51 +1,102 @@
 # Zero to an AI Job: the free roadmap
 
-A free, step-by-step roadmap from zero technical background to a job in AI: **224 lessons in 18 seasons**, every one built from what real AI job ads ask for. Each lesson is a free video on [YouTube](https://www.youtube.com/@ai2hired) with its own page on [ai2hired.org](https://ai2hired.org/).
+[![lessons: 5 of 224 live](https://img.shields.io/badge/lessons-5%20of%20224%20live-2f6fde)](https://ai2hired.org/lessons/?from=github) [![price: free](https://img.shields.io/badge/price-free-2e9e6a)](https://ai2hired.org/?from=github) [![YouTube: @ai2hired](https://img.shields.io/badge/YouTube-%40ai2hired-ff0000)](https://www.youtube.com/@ai2hired) [![license: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-f2c14e)](LICENSE) [![updated: twice a day](https://img.shields.io/badge/updated-twice%20a%20day-0f2a4a)](https://ai2hired.org/curriculum.json)
 
-**Progress:** 5 of 224 lessons published. Lessons are released in order; this page updates itself every day.
+A free, step-by-step roadmap from zero technical background to a job in AI: **224 lessons in 18 seasons**, every one built from what real AI job ads ask for. Each lesson is a free video on [YouTube](https://www.youtube.com/@ai2hired) with its own page, sources and workbook on [ai2hired.org](https://ai2hired.org/?from=github).
+
+**Progress:** `░░░░░░░░░░░░░░░░░░░░` 5 of 224 lessons published (2%). Lessons are released in order; this page updates itself twice a day.
+
+**Contents:** [Start here](#start-here) · [Latest lessons](#latest-lessons) · [Free tools](#free-tools) · [What AI employers ask for](#what-ai-employers-ask-for) · [The 16 career paths](#the-16-career-paths) · [Compare AI jobs](#compare-ai-jobs) · [The curriculum, season by season](#the-curriculum-season-by-season) · [Free credentials](#free-credentials) · [More free resources](#more-free-resources) · [About](#about)
 
 ## Start here
 
-- **Not sure which AI job fits you?** Take the [7-question career quiz](https://ai2hired.org/career-quiz/).
-- **Have a job ad in mind?** Paste it into the [Job Ad Check](https://ai2hired.org/job-ad-check/) to see the skills it asks for and the lessons that teach them.
-- **Preparing for interviews?** [AI interview questions by role](https://ai2hired.org/interview-questions/), with what a strong answer covers.
-- **New words everywhere?** The [AI Glossary](https://ai2hired.org/glossary/) explains the terms of AI job ads in plain English.
-- **What does the market want?** The monthly [AI Job Skills Index](https://ai2hired.org/ai-job-skills-index/), open data under CC BY 4.0.
+1. **Read the roadmap in 5 minutes:** [How to learn AI from scratch](https://ai2hired.org/learn-ai/?from=github), the whole path in 8 stages, with the skills employers ask for most.
+2. **Watch the first lesson:** [Learn AI to Get Hired: The Full Map](https://ai2hired.org/lessons/learn-ai-to-get-hired-the-full-map/?from=github) ([video](https://www.youtube.com/watch?v=KFSTrhTCcFY), 8 min): the map of the course and the AI job market.
+3. **Pick your target job:** take the [7-question career quiz](https://ai2hired.org/career-quiz/?from=github) or read [what each AI job really does](https://ai2hired.org/careers/?from=github), then follow that path's lessons below.
+
+## Latest lessons
+
+| Lesson | Watch | Length |
+|---|---|---|
+| 5. [Escape Tutorial Hell: Learn by Building](https://ai2hired.org/lessons/escape-tutorial-hell/?from=github) (free workbook) | [YouTube](https://www.youtube.com/watch?v=r2VX1q9eYxE) | 12 min |
+| 4. [Why Code Isn't the Hard Part Anymore](https://ai2hired.org/lessons/why-code-isnt-the-hard-part-anymore/?from=github) (free workbook) | [YouTube](https://www.youtube.com/watch?v=H5H8bbYtmbQ) | 13 min |
+| 3. [AI Jobs Explained: Which Role Fits You?](https://ai2hired.org/lessons/ai-jobs-explained/?from=github) (free workbook) | [YouTube](https://www.youtube.com/watch?v=n3TEbl22CE8) | 18 min |
+
+## Free tools
+
+All free, no account needed.
+
+- **[Career Quiz](https://ai2hired.org/career-quiz/?from=github):** 7 questions to find the AI job that fits you.
+- **[CV Check](https://ai2hired.org/cv-check/?from=github):** see which of the 16 AI roles your CV fits, and which skills would raise your match. Read on your device, never stored.
+- **[Job Ad Check](https://ai2hired.org/job-ad-check/?from=github):** paste any AI job ad to see the skills it asks for and the free lessons that teach them.
+- **[AI Hiring Trends](https://ai2hired.org/ai-job-skills-index/?from=github):** which skills AI and pharma companies ask for, counted every month (open data, CC BY 4.0).
+
+## What AI employers ask for
+
+The 10 skills named most in 2,179 technical job ads at 12 AI companies, November 2026 ([AI Job Skills Index](https://ai2hired.org/ai-job-skills-index/?from=github), CC BY 4.0). Each links to its page: who asks for it, how deep to go and the free lesson.
+
+| # | Skill | Share of job ads |
+|---|---|---|
+| 1 | [Python](https://ai2hired.org/ai-job-skills/python/?from=github) | 52% |
+| 2 | [Machine Learning](https://ai2hired.org/ai-job-skills/machine-learning/?from=github) | 39.8% |
+| 3 | [Customer-Facing Work](https://ai2hired.org/ai-job-skills/customer-facing/?from=github) | 28.2% |
+| 4 | [Large Language Models (LLMs)](https://ai2hired.org/ai-job-skills/llm/?from=github) | 27.8% |
+| 5 | [Distributed Systems and Training](https://ai2hired.org/ai-job-skills/distributed/?from=github) | 27.7% |
+| 6 | [AWS](https://ai2hired.org/ai-job-skills/aws/?from=github) | 25.1% |
+| 7 | [AI Agents](https://ai2hired.org/ai-job-skills/agents/?from=github) | 24.3% |
+| 8 | [Microsoft Azure](https://ai2hired.org/ai-job-skills/azure/?from=github) | 21.2% |
+| 9 | [TypeScript or JavaScript](https://ai2hired.org/ai-job-skills/typescript/?from=github) | 20.9% |
+| 10 | [Google Cloud](https://ai2hired.org/ai-job-skills/gcp/?from=github) | 20.8% |
+
+[All skills, one by one](https://ai2hired.org/ai-job-skills/?from=github)
 
 ## The 16 career paths
 
-Every path starts with the same Season 0, then takes the lessons its role needs.
+Every path starts with the same Season 0, then takes only the lessons its role needs.
 
-| Career path | What the job is | Lessons |
-|---|---|---|
-| [AI Consultant, AI Business Analyst or Innovation Manager](https://ai2hired.org/careers/ai-consultant/) | Finds where AI creates value for a client and turns it into a scoped plan. | 110 |
-| [AI Engineer](https://ai2hired.org/careers/ai-engineer/) | Builds AI features on top of language models, from RAG to agents, and runs them in production. | 190 |
-| [AI Engineering Manager or Head of AI](https://ai2hired.org/careers/head-of-ai/) | Leads the people and the plan that deliver AI in a company. | 210 |
-| [AI Governance or Compliance](https://ai2hired.org/careers/ai-governance/) | Makes sure AI is used lawfully and safely, with the evidence to prove it. | 84 |
-| [AI Product Manager or AI Product Owner](https://ai2hired.org/careers/ai-product-manager/) | Decides what AI product to build, why, and how to know it worked. | 103 |
-| [AI Research (the foundation)](https://ai2hired.org/careers/ai-research/) | Builds the deep understanding of models that research roles start from. | 103 |
-| [AI Security or Safety Engineer](https://ai2hired.org/careers/ai-security-engineer/) | Finds and fixes the ways AI systems can be attacked, misused or go wrong. | 151 |
-| [AI, Solution or Enterprise Architect](https://ai2hired.org/careers/ai-architect/) | Designs how AI systems fit a company's architecture, and records why. | 194 |
-| [AI Workflow or Automation Engineer](https://ai2hired.org/careers/ai-automation-engineer/) | Connects models, tools and business systems into automations that do real work. | 157 |
-| [Data Engineer for AI](https://ai2hired.org/careers/data-engineer/) | Builds the pipelines and stores that feed AI systems with clean, current data. | 111 |
-| [Data Governance or MDM Lead](https://ai2hired.org/careers/data-governance/) | Keeps a company's data owned, defined and trusted, so AI can use it. | 109 |
-| [Data Scientist (AI)](https://ai2hired.org/careers/data-scientist/) | Turns data into answers and models, with language models in the toolkit. | 124 |
-| [Digital Transformation Manager or AI Transformation Lead](https://ai2hired.org/careers/digital-transformation-manager/) | Leads a company's change to AI, from strategy and use cases to adoption. | 69 |
-| [ML Engineer](https://ai2hired.org/careers/ml-engineer/) | Trains, tunes and deploys machine learning models, and keeps them fast and reliable. | 157 |
-| [MLOps, LLMOps or AI Platform Engineer](https://ai2hired.org/careers/mlops-engineer/) | Builds and runs the platform that deploys, monitors and scales models and LLM apps. | 159 |
-| [Solutions Engineer, Forward Deployed Engineer or Technical AI Consultant](https://ai2hired.org/careers/solutions-engineer/) | Helps customers adopt AI products, from the first demo to a working deployment. | 209 |
+| Career path | What the job is | Lessons | Interview prep |
+|---|---|---|---|
+| [AI Architect](https://ai2hired.org/careers/ai-architect/?from=github)<br><sub>AI, Solution or Enterprise Architect</sub> | Designs how AI systems fit a company's architecture, and records why. | 194 | [Questions](https://ai2hired.org/careers/ai-architect/interview-questions/?from=github) |
+| [AI Automation Engineer](https://ai2hired.org/careers/ai-automation-engineer/?from=github)<br><sub>AI Workflow or Automation Engineer</sub> | Connects models, tools and business systems into automations that do real work. | 157 | [Questions](https://ai2hired.org/careers/ai-automation-engineer/interview-questions/?from=github) |
+| [AI Consultant](https://ai2hired.org/careers/ai-consultant/?from=github)<br><sub>AI Consultant, AI Business Analyst or Innovation Manager</sub> | Finds where AI creates value for a client and turns it into a scoped plan. | 110 | [Questions](https://ai2hired.org/careers/ai-consultant/interview-questions/?from=github) |
+| [AI Engineer](https://ai2hired.org/careers/ai-engineer/?from=github) | Builds AI features on top of language models, from RAG to agents, and runs them in production. | 190 | [Questions](https://ai2hired.org/careers/ai-engineer/interview-questions/?from=github) |
+| [AI Governance](https://ai2hired.org/careers/ai-governance/?from=github)<br><sub>AI Governance or Compliance</sub> | Makes sure AI is used lawfully and safely, with the evidence to prove it. | 84 | [Questions](https://ai2hired.org/careers/ai-governance/interview-questions/?from=github) |
+| [AI Product Manager](https://ai2hired.org/careers/ai-product-manager/?from=github)<br><sub>AI Product Manager or AI Product Owner</sub> | Decides what AI product to build, why, and how to know it worked. | 103 | [Questions](https://ai2hired.org/careers/ai-product-manager/interview-questions/?from=github) |
+| [AI Researcher](https://ai2hired.org/careers/ai-research/?from=github)<br><sub>AI Research (the foundation)</sub> | Builds the deep understanding of models that research roles start from. | 103 | [Questions](https://ai2hired.org/careers/ai-research/interview-questions/?from=github) |
+| [AI Security Engineer](https://ai2hired.org/careers/ai-security-engineer/?from=github)<br><sub>AI Security or Safety Engineer</sub> | Finds and fixes the ways AI systems can be attacked, misused or go wrong. | 151 | [Questions](https://ai2hired.org/careers/ai-security-engineer/interview-questions/?from=github) |
+| [Data Engineer](https://ai2hired.org/careers/data-engineer/?from=github)<br><sub>Data Engineer for AI</sub> | Builds the pipelines and stores that feed AI systems with clean, current data. | 111 | [Questions](https://ai2hired.org/careers/data-engineer/interview-questions/?from=github) |
+| [Data Governance](https://ai2hired.org/careers/data-governance/?from=github)<br><sub>Data Governance or MDM Lead</sub> | Keeps a company's data owned, defined and trusted, so AI can use it. | 109 | [Questions](https://ai2hired.org/careers/data-governance/interview-questions/?from=github) |
+| [Data Scientist](https://ai2hired.org/careers/data-scientist/?from=github)<br><sub>Data Scientist (AI)</sub> | Turns data into answers and models, with language models in the toolkit. | 124 | [Questions](https://ai2hired.org/careers/data-scientist/interview-questions/?from=github) |
+| [Digital Transformation Manager](https://ai2hired.org/careers/digital-transformation-manager/?from=github)<br><sub>Digital Transformation Manager or AI Transformation Lead</sub> | Leads a company's change to AI, from strategy and use cases to adoption. | 69 | [Questions](https://ai2hired.org/careers/digital-transformation-manager/interview-questions/?from=github) |
+| [Head of AI](https://ai2hired.org/careers/head-of-ai/?from=github)<br><sub>AI Engineering Manager or Head of AI</sub> | Leads the people and the plan that deliver AI in a company. | 210 | [Questions](https://ai2hired.org/careers/head-of-ai/interview-questions/?from=github) |
+| [ML Engineer](https://ai2hired.org/careers/ml-engineer/?from=github) | Trains, tunes and deploys machine learning models, and keeps them fast and reliable. | 157 | [Questions](https://ai2hired.org/careers/ml-engineer/interview-questions/?from=github) |
+| [MLOps Engineer](https://ai2hired.org/careers/mlops-engineer/?from=github)<br><sub>MLOps, LLMOps or AI Platform Engineer</sub> | Builds and runs the platform that deploys, monitors and scales models and LLM apps. | 159 | [Questions](https://ai2hired.org/careers/mlops-engineer/interview-questions/?from=github) |
+| [Solutions Engineer](https://ai2hired.org/careers/solutions-engineer/?from=github)<br><sub>Solutions Engineer, Forward Deployed Engineer or Technical AI Consultant</sub> | Helps customers adopt AI products, from the first demo to a working deployment. | 209 | [Questions](https://ai2hired.org/careers/solutions-engineer/interview-questions/?from=github) |
+
+What each job really does, and which ones AI companies hire for most: [AI Careers](https://ai2hired.org/careers/?from=github).
+
+## Compare AI jobs
+
+- **[AI Engineer vs ML Engineer](https://ai2hired.org/compare/ai-engineer-vs-ml-engineer/?from=github):** AI engineers build products on existing models; ML engineers train the models themselves.
+- **[Data Scientist vs AI Engineer](https://ai2hired.org/compare/data-scientist-vs-ai-engineer/?from=github):** Data scientists turn data into answers; AI engineers turn models into working software.
+- **[Data Scientist vs Data Engineer](https://ai2hired.org/compare/data-scientist-vs-data-engineer/?from=github):** Data engineers build the pipelines that deliver data; data scientists use it to find answers.
+- **[AI Engineer vs Forward Deployed Engineer](https://ai2hired.org/compare/ai-engineer-vs-forward-deployed-engineer/?from=github):** AI engineers build inside a product team; forward deployed engineers build with customers.
+- **[ML Engineer vs MLOps Engineer](https://ai2hired.org/compare/ml-engineer-vs-mlops-engineer/?from=github):** ML engineers make the models good; MLOps engineers make every model easy to ship and run.
+- **[AI Governance vs AI Security](https://ai2hired.org/compare/ai-governance-vs-ai-security/?from=github):** AI governance sets the rules for using AI; AI security tests and defends the systems.
 
 ## The curriculum, season by season
 
+Ticked lessons are live: the title opens the lesson page (summary, sources, workbook), ▶ opens the video.
+
 ### Season 0: Start Here (lessons 1 to 8)
 
-Understand the AI job landscape, choose a target role, and use AI assistants and prompting with judgment. [Watch the playlist](https://www.youtube.com/playlist?list=PLL0y7DeQ92Pc).
+Understand the AI job landscape, choose a target role, and use AI assistants and prompting with judgment. [Watch the playlist](https://www.youtube.com/playlist?list=PLL0y7DeQ92Pc). **5 of 8 live.**
 
-- [x] 1. [Learn AI to Get Hired: The Full Map](https://ai2hired.org/lessons/learn-ai-to-get-hired-the-full-map/)
-- [x] 2. [What AI Really Is: AI vs Machine Learning vs LLMs](https://ai2hired.org/lessons/what-ai-really-is/)
-- [x] 3. [AI Jobs Explained: Which Role Fits You?](https://ai2hired.org/lessons/ai-jobs-explained/)
-- [x] 4. [Why Code Isn't the Hard Part Anymore](https://ai2hired.org/lessons/why-code-isnt-the-hard-part-anymore/)
-- [x] 5. [Escape Tutorial Hell: Learn by Building](https://ai2hired.org/lessons/escape-tutorial-hell/)
+- [x] 1. [Learn AI to Get Hired: The Full Map](https://ai2hired.org/lessons/learn-ai-to-get-hired-the-full-map/?from=github) [▶](https://www.youtube.com/watch?v=KFSTrhTCcFY)
+- [x] 2. [What AI Really Is: AI vs Machine Learning vs LLMs](https://ai2hired.org/lessons/what-ai-really-is/?from=github) [▶](https://www.youtube.com/watch?v=FgYmzDiVdMU)
+- [x] 3. [AI Jobs Explained: Which Role Fits You?](https://ai2hired.org/lessons/ai-jobs-explained/?from=github) [▶](https://www.youtube.com/watch?v=n3TEbl22CE8)
+- [x] 4. [Why Code Isn't the Hard Part Anymore](https://ai2hired.org/lessons/why-code-isnt-the-hard-part-anymore/?from=github) [▶](https://www.youtube.com/watch?v=H5H8bbYtmbQ)
+- [x] 5. [Escape Tutorial Hell: Learn by Building](https://ai2hired.org/lessons/escape-tutorial-hell/?from=github) [▶](https://www.youtube.com/watch?v=r2VX1q9eYxE)
 - [ ] 6. AI Assistants for Learners: Catch the Mistakes
 - [ ] 7. Prompting 101 for Everyone
 - [ ] 8. Tokens, Context Windows and Model Families
@@ -385,12 +436,38 @@ Turn your skills into proof, visibility and a signed offer.
 
 _Coming soon._
 
+## Free credentials
+
+Prove what you learned with a free badge you can add to LinkedIn: lessons, season quizzes, a final exam and, above the first level, a real project checked automatically. [See the credentials](https://ai2hired.org/credentials/?from=github).
+
+| Credential | Level | What it proves |
+|---|---|---|
+| [AI Foundations](https://ai2hired.org/credentials/ai-foundations/?from=github) | Foundational | Understand AI, the jobs it creates and how to use AI assistants with judgment. |
+| [AI Engineer, Associate](https://ai2hired.org/credentials/ai-engineer-associate/?from=github) | Associate | Build reliable applications on large language model APIs, in clean, tested Python. |
+| [AI Engineer, Professional](https://ai2hired.org/credentials/ai-engineer-professional/?from=github) | Professional | Build RAG systems and agents on company data, and wrap them into real products. |
+| [AI Engineer, Expert](https://ai2hired.org/credentials/ai-engineer-expert/?from=github) | Expert | Take AI systems to production: deploy, evaluate, observe, secure and govern them. |
+| [Machine Learning Engineer, Associate](https://ai2hired.org/credentials/machine-learning-engineer-associate/?from=github) | Associate | Prepare data and build, evaluate and track machine learning models for business cases. |
+| [Machine Learning Engineer, Professional](https://ai2hired.org/credentials/machine-learning-engineer-professional/?from=github) | Professional | Build deep learning models and run machine learning in production, reliably. |
+| [Machine Learning Engineer, Expert](https://ai2hired.org/credentials/machine-learning-engineer-expert/?from=github) | Expert | Adapt, optimize and train models, and prove the improvement with numbers. |
+| [AI Security & Governance, Professional](https://ai2hired.org/credentials/ai-security-governance/?from=github) | Professional | Make AI systems secure, compliant and governable, in regulated industries too. |
+| [AI Product & Transformation Leader, Professional](https://ai2hired.org/credentials/ai-product-transformation-leader/?from=github) | Professional | Find, justify, deliver and scale AI inside an organization. No code needed. |
+
+## More free resources
+
+- [AI Glossary](https://ai2hired.org/glossary/?from=github): the terms of AI job ads in plain English, each with a pharma example.
+- [AI interview questions by role](https://ai2hired.org/interview-questions/?from=github): what a strong answer covers.
+- [Reference library](https://ai2hired.org/library/?from=github): the books and official texts behind every lesson.
+- [AI news and AI in pharma news](https://ai2hired.org/news/?from=github), updated every day.
+- [The full curriculum](https://ai2hired.org/curriculum/?from=github) on the website.
+
 ## About
 
-ai2hired is a free course that takes people from zero to a job offer in AI, with a strong focus on AI in pharma and life sciences. Every lesson exists because real job descriptions ask for that skill. Website: [ai2hired.org](https://ai2hired.org/). YouTube: [@ai2hired](https://www.youtube.com/@ai2hired).
+ai2hired is a free course that takes people from zero to a job offer in AI, with a strong focus on AI in pharma and life sciences. Every lesson exists because real job descriptions ask for that skill. Website: [ai2hired.org](https://ai2hired.org/?from=github). YouTube: [@ai2hired](https://www.youtube.com/@ai2hired).
+
+If this roadmap helps you, star the repository so others find it, and share it with someone starting out.
 
 ## License
 
 This roadmap is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (see [LICENSE](LICENSE)). You may copy, share and adapt it, even commercially, as long as you credit ai2hired with a link to [ai2hired.org](https://ai2hired.org/). The lesson videos and pages on ai2hired.org are not covered by this license.
 
-_This README is rebuilt every day from [the live curriculum](https://ai2hired.org/curriculum.json). Please suggest changes on the website rather than editing it here._
+_This README is rebuilt twice a day from [the live curriculum](https://ai2hired.org/curriculum.json). Please suggest changes on the website rather than editing it here._
