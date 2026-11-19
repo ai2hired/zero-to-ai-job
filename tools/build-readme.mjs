@@ -1,5 +1,5 @@
 // Rebuilds README.md from the live curriculum at https://ai2hired.org/curriculum.json.
-// Run by .github/workflows/update.yml twice a day; by hand: node tools/build-readme.mjs
+// Run by .github/workflows/update.yml four times a day; by hand: node tools/build-readme.mjs
 // For a test from a local file: CURRICULUM_FILE=path/to/curriculum.json node tools/build-readme.mjs
 // No dependencies (Node 20 or later). Writes nothing when the curriculum cannot be read.
 //
@@ -56,7 +56,7 @@ function readme(c) {
       badge('price', 'free', '2e9e6a', tag(`${c.site}/`)),
       badge('YouTube', '@ai2hired', 'ff0000', c.youtube),
       badge('license', 'CC BY 4.0', 'f2c14e', 'LICENSE'),
-      badge('updated', 'twice a day', '0f2a4a', URL_JSON),
+      badge('updated', '4 times a day', '0f2a4a', URL_JSON),
     ].join(' '),
     '',
   );
@@ -64,7 +64,7 @@ function readme(c) {
     `A free, step-by-step roadmap from zero technical background to a job in AI: **${all.length} lessons in ${c.seasons.length} seasons**, every one built from what real AI job ads ask for. Each lesson is a free video on [YouTube](${c.youtube}) with its own page, sources and workbook on [ai2hired.org](${tag(`${c.site}/`)}).`,
     '',
   );
-  push(`**Progress:** \`${bar(done, all.length)}\` ${done} of ${all.length} lessons published (${pct}%). Lessons are released in order; this page updates itself twice a day.`, '');
+  push(`**Progress:** \`${bar(done, all.length)}\` ${done} of ${all.length} lessons published (${pct}%). Lessons are released in order; this page updates itself four times a day.`, '');
 
   // Contents.
   const sections = [
@@ -174,11 +174,11 @@ function readme(c) {
 
   // About and license.
   push('## About', '');
-  push(`ai2hired is a free course that takes people from zero to a job offer in AI, with a strong focus on AI in pharma and life sciences. Every lesson exists because real job descriptions ask for that skill. Website: [ai2hired.org](${tag(`${c.site}/`)}). YouTube: [@ai2hired](${c.youtube}).`, '');
+  push(`ai2hired is a free course that takes people from zero to a job offer in AI. For every industry, with examples from pharma. Every lesson exists because real job descriptions ask for that skill. Website: [ai2hired.org](${tag(`${c.site}/`)}). YouTube: [@ai2hired](${c.youtube}).`, '');
   push('If this roadmap helps you, star the repository so others find it, and share it with someone starting out.', '');
   push('## License', '');
   push(`This roadmap is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (see [LICENSE](LICENSE)). You may copy, share and adapt it, even commercially, as long as you credit ai2hired with a link to [ai2hired.org](${c.site}/). The lesson videos and pages on ai2hired.org are not covered by this license.`, '');
-  push(`_This README is rebuilt twice a day from [the live curriculum](${URL_JSON}). Please suggest changes on the website rather than editing it here._`, '');
+  push(`_This README is rebuilt four times a day from [the live curriculum](${URL_JSON}). Please suggest changes on the website rather than editing it here._`, '');
   return out.join('\n');
 }
 

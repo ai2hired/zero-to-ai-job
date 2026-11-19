@@ -1,13 +1,17 @@
-# Rebuilds README.md from https://ai2hired.org/curriculum.json twice a day and commits it
+# Rebuilds README.md from https://ai2hired.org/curriculum.json four times a day and commits it
 # when it changed (a lesson was published, a title, path, skill figure or page changed).
 # Run it by hand: Actions > Update the roadmap > Run workflow.
 
 name: Update the roadmap
 
 on:
+  # GitHub skips some scheduled runs on quiet repositories (19 November 2026: none ran), so four
+  # times a day, and once more whenever the builder itself changes.
   schedule:
-    - cron: '41 7 * * *'
-    - cron: '41 19 * * *'
+    - cron: '41 1,7,13,19 * * *'
+  push:
+    branches: [main]
+    paths: ['tools/**', '.github/workflows/update.yml']
   workflow_dispatch:
 
 permissions:
