@@ -33,20 +33,20 @@ All free, no account needed.
 
 ## What AI employers ask for
 
-The 10 skills named most in 2,909 technical job ads at 35 AI companies, November 2026 ([AI Job Skills Index](https://ai2hired.org/ai-job-skills-index/?from=github), CC BY 4.0). Each links to its page: who asks for it, how deep to go and the free lesson.
+The 10 skills named most in 3,078 technical job ads at 37 AI companies, November 2026 ([AI Job Skills Index](https://ai2hired.org/ai-job-skills-index/?from=github), CC BY 4.0). Each links to its page: who asks for it, how deep to go and the free lesson.
 
 | # | Skill | Share of job ads |
 |---|---|---|
-| 1 | [Python](https://ai2hired.org/ai-job-skills/python/?from=github) | 50.6% |
-| 2 | [Machine Learning](https://ai2hired.org/ai-job-skills/machine-learning/?from=github) | 39.1% |
-| 3 | [Large Language Models (LLMs)](https://ai2hired.org/ai-job-skills/llm/?from=github) | 30.2% |
-| 4 | [Customer-Facing Work](https://ai2hired.org/ai-job-skills/customer-facing/?from=github) | 29.4% |
-| 5 | [AI Agents](https://ai2hired.org/ai-job-skills/agents/?from=github) | 27.3% |
-| 6 | [Distributed Systems and Training](https://ai2hired.org/ai-job-skills/distributed/?from=github) | 25.6% |
-| 7 | [AWS](https://ai2hired.org/ai-job-skills/aws/?from=github) | 23.3% |
-| 8 | [TypeScript or JavaScript](https://ai2hired.org/ai-job-skills/typescript/?from=github) | 22.7% |
-| 9 | [Microsoft Azure](https://ai2hired.org/ai-job-skills/azure/?from=github) | 19.9% |
-| 10 | [Google Cloud](https://ai2hired.org/ai-job-skills/gcp/?from=github) | 18.9% |
+| 1 | [Python](https://ai2hired.org/ai-job-skills/python/?from=github) | 49.6% |
+| 2 | [Machine Learning](https://ai2hired.org/ai-job-skills/machine-learning/?from=github) | 37.7% |
+| 3 | [Large Language Models (LLMs)](https://ai2hired.org/ai-job-skills/llm/?from=github) | 29.3% |
+| 4 | [Customer-Facing Work](https://ai2hired.org/ai-job-skills/customer-facing/?from=github) | 27.8% |
+| 5 | [AI Agents](https://ai2hired.org/ai-job-skills/agents/?from=github) | 26% |
+| 6 | [Distributed Systems and Training](https://ai2hired.org/ai-job-skills/distributed/?from=github) | 25.3% |
+| 7 | [AWS](https://ai2hired.org/ai-job-skills/aws/?from=github) | 22.4% |
+| 8 | [TypeScript or JavaScript](https://ai2hired.org/ai-job-skills/typescript/?from=github) | 21.9% |
+| 9 | [Microsoft Azure](https://ai2hired.org/ai-job-skills/azure/?from=github) | 19.1% |
+| 10 | [Google Cloud](https://ai2hired.org/ai-job-skills/gcp/?from=github) | 18.3% |
 
 [All skills, one by one](https://ai2hired.org/ai-job-skills/?from=github)
 
