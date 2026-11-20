@@ -1,10 +1,10 @@
 # Zero to an AI Job: the free roadmap
 
-[![lessons: 6 of 224 live](https://img.shields.io/badge/lessons-6%20of%20224%20live-2f6fde)](https://ai2hired.org/lessons/?from=github) [![price: free](https://img.shields.io/badge/price-free-2e9e6a)](https://ai2hired.org/?from=github) [![YouTube: @ai2hired](https://img.shields.io/badge/YouTube-%40ai2hired-ff0000)](https://www.youtube.com/@ai2hired) [![license: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-f2c14e)](LICENSE) [![updated: 4 times a day](https://img.shields.io/badge/updated-4%20times%20a%20day-0f2a4a)](https://ai2hired.org/curriculum.json)
+[![lessons: 7 of 224 live](https://img.shields.io/badge/lessons-7%20of%20224%20live-2f6fde)](https://ai2hired.org/lessons/?from=github) [![price: free](https://img.shields.io/badge/price-free-2e9e6a)](https://ai2hired.org/?from=github) [![YouTube: @ai2hired](https://img.shields.io/badge/YouTube-%40ai2hired-ff0000)](https://www.youtube.com/@ai2hired) [![license: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-f2c14e)](LICENSE) [![updated: 4 times a day](https://img.shields.io/badge/updated-4%20times%20a%20day-0f2a4a)](https://ai2hired.org/curriculum.json)
 
 A free, step-by-step roadmap from zero technical background to a job in AI: **224 lessons in 18 seasons**, every one built from what real AI job ads ask for. Each lesson is a free video on [YouTube](https://www.youtube.com/@ai2hired) with its own page, sources and workbook on [ai2hired.org](https://ai2hired.org/?from=github).
 
-**Progress:** `█░░░░░░░░░░░░░░░░░░░` 6 of 224 lessons published (3%). Lessons are released in order; this page updates itself four times a day.
+**Progress:** `█░░░░░░░░░░░░░░░░░░░` 7 of 224 lessons published (3%). Lessons are released in order; this page updates itself four times a day.
 
 **Contents:** [Start here](#start-here) · [Latest lessons](#latest-lessons) · [Free tools](#free-tools) · [What AI employers ask for](#what-ai-employers-ask-for) · [The 16 career paths](#the-16-career-paths) · [Compare AI jobs](#compare-ai-jobs) · [The curriculum, season by season](#the-curriculum-season-by-season) · [Free credentials](#free-credentials) · [More free resources](#more-free-resources) · [About](#about)
 
@@ -18,9 +18,9 @@ A free, step-by-step roadmap from zero technical background to a job in AI: **22
 
 | Lesson | Watch | Length |
 |---|---|---|
+| 7. [Prompting from Zero: Get Better Answers](https://ai2hired.org/lessons/prompting-from-zero/?from=github) (free workbook) | [YouTube](https://www.youtube.com/watch?v=4i9jjKnxjgg) | 17 min |
 | 6. [AI Assistants for Learners: Catch the Mistakes](https://ai2hired.org/lessons/ai-assistants-for-learners/?from=github) (free workbook) | [YouTube](https://www.youtube.com/watch?v=L820pISn_Vc) | 15 min |
 | 5. [Escape Tutorial Hell: Learn by Building](https://ai2hired.org/lessons/escape-tutorial-hell/?from=github) (free workbook) | [YouTube](https://www.youtube.com/watch?v=r2VX1q9eYxE) | 12 min |
-| 4. [Why Code Isn't the Hard Part Anymore](https://ai2hired.org/lessons/why-code-isnt-the-hard-part-anymore/?from=github) (free workbook) | [YouTube](https://www.youtube.com/watch?v=H5H8bbYtmbQ) | 13 min |
 
 ## Free tools
 
@@ -33,16 +33,16 @@ All free, no account needed.
 
 ## What AI employers ask for
 
-The 10 skills named most in 3,078 technical job ads at 37 AI companies, November 2026 ([AI Job Skills Index](https://ai2hired.org/ai-job-skills-index/?from=github), CC BY 4.0). Each links to its page: who asks for it, how deep to go and the free lesson.
+The 10 skills named most in 3,091 technical job ads at 37 AI companies, November 2026 ([AI Job Skills Index](https://ai2hired.org/ai-job-skills-index/?from=github), CC BY 4.0). Each links to its page: who asks for it, how deep to go and the free lesson.
 
 | # | Skill | Share of job ads |
 |---|---|---|
-| 1 | [Python](https://ai2hired.org/ai-job-skills/python/?from=github) | 49.6% |
+| 1 | [Python](https://ai2hired.org/ai-job-skills/python/?from=github) | 49.7% |
 | 2 | [Machine Learning](https://ai2hired.org/ai-job-skills/machine-learning/?from=github) | 37.7% |
-| 3 | [Large Language Models (LLMs)](https://ai2hired.org/ai-job-skills/llm/?from=github) | 29.3% |
-| 4 | [Customer-Facing Work](https://ai2hired.org/ai-job-skills/customer-facing/?from=github) | 27.8% |
-| 5 | [AI Agents](https://ai2hired.org/ai-job-skills/agents/?from=github) | 26% |
-| 6 | [Distributed Systems and Training](https://ai2hired.org/ai-job-skills/distributed/?from=github) | 25.3% |
+| 3 | [Large Language Models (LLMs)](https://ai2hired.org/ai-job-skills/llm/?from=github) | 29.4% |
+| 4 | [Customer-Facing Work](https://ai2hired.org/ai-job-skills/customer-facing/?from=github) | 27.7% |
+| 5 | [AI Agents](https://ai2hired.org/ai-job-skills/agents/?from=github) | 25.9% |
+| 6 | [Distributed Systems and Training](https://ai2hired.org/ai-job-skills/distributed/?from=github) | 25.2% |
 | 7 | [AWS](https://ai2hired.org/ai-job-skills/aws/?from=github) | 22.4% |
 | 8 | [TypeScript or JavaScript](https://ai2hired.org/ai-job-skills/typescript/?from=github) | 21.9% |
 | 9 | [Microsoft Azure](https://ai2hired.org/ai-job-skills/azure/?from=github) | 19.1% |
@@ -90,7 +90,7 @@ Ticked lessons are live: the title opens the lesson page (summary, sources, work
 
 ### Season 0: Start Here (lessons 1 to 8)
 
-Understand the AI job landscape, choose a target role, and use AI assistants and prompting with judgment. [Watch the playlist](https://www.youtube.com/playlist?list=PLL0y7DeQ92Pc). **6 of 8 live.**
+Understand the AI job landscape, choose a target role, and use AI assistants and prompting with judgment. [Watch the playlist](https://www.youtube.com/playlist?list=PLL0y7DeQ92Pc). **7 of 8 live.**
 
 - [x] 1. [Learn AI to Get Hired: The Full Map](https://ai2hired.org/lessons/learn-ai-to-get-hired-the-full-map/?from=github) [▶](https://www.youtube.com/watch?v=KFSTrhTCcFY)
 - [x] 2. [What AI Really Is: AI vs Machine Learning vs LLMs](https://ai2hired.org/lessons/what-ai-really-is/?from=github) [▶](https://www.youtube.com/watch?v=FgYmzDiVdMU)
@@ -98,7 +98,7 @@ Understand the AI job landscape, choose a target role, and use AI assistants and
 - [x] 4. [Why Code Isn't the Hard Part Anymore](https://ai2hired.org/lessons/why-code-isnt-the-hard-part-anymore/?from=github) [▶](https://www.youtube.com/watch?v=H5H8bbYtmbQ)
 - [x] 5. [Escape Tutorial Hell: Learn by Building](https://ai2hired.org/lessons/escape-tutorial-hell/?from=github) [▶](https://www.youtube.com/watch?v=r2VX1q9eYxE)
 - [x] 6. [AI Assistants for Learners: Catch the Mistakes](https://ai2hired.org/lessons/ai-assistants-for-learners/?from=github) [▶](https://www.youtube.com/watch?v=L820pISn_Vc)
-- [ ] 7. Prompting from Zero: Get Better Answers
+- [x] 7. [Prompting from Zero: Get Better Answers](https://ai2hired.org/lessons/prompting-from-zero/?from=github) [▶](https://www.youtube.com/watch?v=4i9jjKnxjgg)
 - [ ] 8. Tokens, Context Windows and Model Families
 
 ### Season 1: Computer and Internet Foundations (lessons 9 to 17)
