@@ -33,20 +33,20 @@ All free, no account needed.
 
 ## What AI employers ask for
 
-The 10 skills named most in 3,091 technical job ads at 37 AI companies, November 2026 ([AI Job Skills Index](https://ai2hired.org/ai-job-skills-index/?from=github), CC BY 4.0). Each links to its page: who asks for it, how deep to go and the free lesson.
+The 10 skills named most in 3,084 technical job ads at 37 AI companies, November 2026 ([AI Job Skills Index](https://ai2hired.org/ai-job-skills-index/?from=github), CC BY 4.0). Each links to its page: who asks for it, how deep to go and the free lesson.
 
 | # | Skill | Share of job ads |
 |---|---|---|
 | 1 | [Python](https://ai2hired.org/ai-job-skills/python/?from=github) | 49.7% |
-| 2 | [Machine Learning](https://ai2hired.org/ai-job-skills/machine-learning/?from=github) | 37.7% |
+| 2 | [Machine Learning](https://ai2hired.org/ai-job-skills/machine-learning/?from=github) | 37.8% |
 | 3 | [Large Language Models (LLMs)](https://ai2hired.org/ai-job-skills/llm/?from=github) | 29.4% |
-| 4 | [Customer-Facing Work](https://ai2hired.org/ai-job-skills/customer-facing/?from=github) | 27.7% |
-| 5 | [AI Agents](https://ai2hired.org/ai-job-skills/agents/?from=github) | 25.9% |
+| 4 | [Customer-Facing Work](https://ai2hired.org/ai-job-skills/customer-facing/?from=github) | 27.8% |
+| 5 | [AI Agents](https://ai2hired.org/ai-job-skills/agents/?from=github) | 25.8% |
 | 6 | [Distributed Systems and Training](https://ai2hired.org/ai-job-skills/distributed/?from=github) | 25.2% |
-| 7 | [AWS](https://ai2hired.org/ai-job-skills/aws/?from=github) | 22.4% |
-| 8 | [TypeScript or JavaScript](https://ai2hired.org/ai-job-skills/typescript/?from=github) | 21.9% |
-| 9 | [Microsoft Azure](https://ai2hired.org/ai-job-skills/azure/?from=github) | 19.1% |
-| 10 | [Google Cloud](https://ai2hired.org/ai-job-skills/gcp/?from=github) | 18.3% |
+| 7 | [AWS](https://ai2hired.org/ai-job-skills/aws/?from=github) | 22.5% |
+| 8 | [TypeScript or JavaScript](https://ai2hired.org/ai-job-skills/typescript/?from=github) | 22% |
+| 9 | [Microsoft Azure](https://ai2hired.org/ai-job-skills/azure/?from=github) | 19.2% |
+| 10 | [Google Cloud](https://ai2hired.org/ai-job-skills/gcp/?from=github) | 18.4% |
 
 [All skills, one by one](https://ai2hired.org/ai-job-skills/?from=github)
 
